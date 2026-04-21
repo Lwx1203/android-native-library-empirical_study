@@ -7,6 +7,7 @@ This repository is an anonymous release accompanying the paper:
 It contains datasets, experimental results, and analysis tools used in our study of native libraries in Android applications.
 
 Repository Structure
+
 native_libs_analysis/
 
 This folder contains experimental data related to the usage analysis of native libraries in Android applications, including results from large-scale empirical studies.
