@@ -7,10 +7,13 @@ It contains datasets, experimental results, and analysis tools used in our study
 Repository Structure
 native_libs_analysis/
 This folder contains experimental data related to the usage analysis of native libraries in Android applications.
+
 67_open_source_libs/
 This directory includes datasets and experimental results related to native library functionality analysis, derived from 67 open-source libraries. 
+
 monkey_test/
 This directory contains automated testing scripts based on Monkey testing, as well as instrumentation tools for runtime behavior observation.
+
 libunity/
 This directory contains experimental data specifically focused on libunity.so.
 
