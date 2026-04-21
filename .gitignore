@@ -1,0 +1,60 @@
+# ==========================================
+
+# 1. Python / PyCharm
+
+# ==========================================
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Bytecode and cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# IDE
+
+.idea/
+
+# ==========================================
+
+# 2. Android Studio
+
+# ==========================================
+
+.gradle/
+local.properties
+
+# Build outputs
+
+build/
+**/build/
+
+# IDE files
+
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# ==========================================
+
+# 3. OS files
+
+# ==========================================
+
+.DS_Store
+Thumbs.db
+
+# ==========================================
+
+# 4. Optional (recommended for your project)
+
+# ==========================================
+
+*.log
+*.csv
