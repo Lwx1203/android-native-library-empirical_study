@@ -1,5 +1,3 @@
-Visible Apps, Hidden Libs (Anonymous Repository)
-
 This repository is an anonymous release accompanying the paper:
 
 “Visible Apps, Hidden Libs: A Comprehensive Study of Native Libraries in Android Applications”
